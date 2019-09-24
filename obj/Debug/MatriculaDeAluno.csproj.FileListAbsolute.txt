@@ -1,0 +1,10 @@
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MatriculaDeAluno\bin\Debug\MatriculaDeAluno.exe.config
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MatriculaDeAluno\bin\Debug\MatriculaDeAluno.exe
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MatriculaDeAluno\bin\Debug\MatriculaDeAluno.pdb
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.frmCategoriaPorIdade.resources
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.Properties.Resources.resources
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.exe
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.pdb
